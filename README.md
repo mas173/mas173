@@ -37,14 +37,11 @@ Fruits are my all-time favorite food!
 
 📫 Get in Touch:
 
-Email
+Email : rajv60701@gmail.com
 
-Portfolio Website (Add your link here!)
+Portfolio Website: vicky-raj07.netlify.app
 
 
 Feel free to check out my repositories and connect with me. Let's build something amazing together!
 
 
----
-
-Let me know if you'd like to add or modify anything!
